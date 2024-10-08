@@ -6787,7 +6787,7 @@ _.$ti=c},
 a2s(){var s=0,r=A.K(t.H),q,p,o,n,m,l,k
 var $async$a2s=A.L(function(a,b){if(a===1)return A.H(b,r)
 while(true)switch(s){case 0:s=2
-return A.Q($.wc().pC(".env"),$async$a2s)
+return A.Q($.wc().pC("dotenv"),$async$a2s)
 case 2:if($.a1==null)A.a97()
 q=$.a1
 q.toString
